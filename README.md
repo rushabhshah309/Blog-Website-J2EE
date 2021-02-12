@@ -1,5 +1,5 @@
 # Blog-Website-J2EE
-A Web Application where user can post different blogs by logging into this website. Users can also see other people's blog also. Login, Signup facilities are based on MVC Architecture and Session Management.
+A Web Application where user can post different blogs by logging into this website. Users can edit their blogs and can also see other people's blog also. Login, Signup facilities are based on MVC Architecture and Session Management.
 
 ## Tools and Technologies used:
 1. Servlets and JSP with MVC Architecture
